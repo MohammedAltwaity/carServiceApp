@@ -1,0 +1,12 @@
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\bin\Debug\VLDGY0.exe.config
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\bin\Debug\VLDGY0.exe
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\bin\Debug\VLDGY0.pdb
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.csproj.AssemblyReference.cache
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.mainForm.resources
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.Properties.Resources.resources
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.csproj.GenerateResource.cache
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.exe
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.pdb
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.WorksheetRegistration.resources
+C:\Users\Mohammed\source\repos\VLDGY0\VLDGY0\obj\Debug\VLDGY0.Payment.resources
